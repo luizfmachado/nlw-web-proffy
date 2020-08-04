@@ -1,5 +1,5 @@
 <h1 align='center'>
-  <img src='src/assets/images/logo.svg'>
+  <img src='src/assets/images/logo.png'>
 </h1>
 
 <h1>
@@ -8,10 +8,10 @@
 
 ## ☝ Index
 
-- [About](#-about)
+- [About](#-About)
 - [Technologies used](#-Technologies-used)
 - [How to install and use](#-How-to-install-and-use)
-- []()
+- [Author](#-Author)
 
 ---
 
