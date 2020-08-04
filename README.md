@@ -40,7 +40,7 @@ The project **Proffy** was built in the "Next level week" offered by [Rocketseat
   $ yarn start #or npm run start
 
 ```
-Then access your browser in **http://localhost:3333**
+Then access your browser in **http://localhost:3000**
 
 ---
 
