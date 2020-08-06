@@ -1,9 +1,9 @@
 <h1 align='center'>
-  <img src='src/assets/images/logo.png'>
+  <img src='.github/logo.png'>
 </h1>
 
 <h1>
-  <img src='src/assets/images/preview.gif'>
+  <img src='.github/preview.gif'>
 </h1>
 
 ## ☝ Index
